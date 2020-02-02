@@ -1,0 +1,43 @@
+@font-face{
+    src:url("https://fonts.googleapis.com/css?family=Bebas+Neue&display=swap");
+    font-family: 'Bebas Neue', cursive;
+}
+body{
+    font-family: 'Bebas Neue', cursive;
+    background-color:#E27D60;
+    color: black;
+}
+h1{
+    color:rgb(0, 0, 155);
+    font-size: larger;
+    font-weight: 700;
+    text-decoration: underline;
+}
+h3{
+    color: red;
+    font-size: larger;
+    font-weight: 600;
+}
+p{
+    font-size: medium;
+    font-weight: 400;
+    font-size: small;
+}
+li{
+    text-decoration: none;
+    font-weight: 400;
+    font-size: small;
+}
+a{
+   text-transform: none;
+}
+a:visited{
+color: black;
+}
+a:hover{
+    text-transform: uppercase;
+    }
+a:active{
+    text-transform: uppercase;
+    background-color: aqua;
+}
